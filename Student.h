@@ -4,9 +4,18 @@
 #include "Person.h"
 #include <string>
 #using namespace std;
-//#write student class here
 
 
+class student{
+    private:
+    int yearlevel;
+    string major;
+    public:
+  display (){
+  this->yearlevel;
+  this->major;
+  }  
+ }
 
 
 
